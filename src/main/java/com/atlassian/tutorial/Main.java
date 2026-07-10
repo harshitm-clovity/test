@@ -20,6 +20,6 @@ public class Main {
             System.out.println("i = " + i);
         }
 
-        System.out.printf("hii this is you name and you can do anything");
+        System.out.printf("hii this is you name and you can do anythinnnng");
     }
 }
