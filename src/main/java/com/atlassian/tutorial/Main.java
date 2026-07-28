@@ -1,6 +1,6 @@
 package com.atlassian.tutorial;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> orghjgjhghhjndjnsmndmsnhjkjhjkhyjhjhj
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> orghjgjhghhjndjnsmndmsnhjkjhjkhyjhjhjghgh
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
